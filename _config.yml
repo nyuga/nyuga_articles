@@ -1,7 +1,2 @@
-theme: minima
-markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false
-  math_engine: katex
-  math_engine_opts: {}
+# theme: minima
+markdown: GFM
