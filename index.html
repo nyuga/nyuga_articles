@@ -7,7 +7,7 @@
         let htmlString = '<h1>文章列表</h1><ul>';
         
         for (let file of data) {
-            if (file.type==='dir') {
+            if (file.type==='dir' && file.name[0]!==".") {
                 htmlString += `<li><a href="${file.path}">${file.name}</a></li>`;
             }
           
