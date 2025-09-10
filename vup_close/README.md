@@ -14,36 +14,6 @@
 
 ## 短版：
 范围：参考注销数大于1且区间下限大于1
-
-<table>
-  <thead>
-    <tr style="background-color:lightgray;"><th>字</th><th>相对比例</th><th>95%置信区间</th><th>注销数</th><th>参考数</th></tr>
-  </thead>
-  <tbody>
-    <tr><td style="background-color: #e0eaff;">1.空</td><td style="background-color: #e0eaff;">0.000</td><td style="background-color: #e0eaff;">(0.000,0.922)</td><td style="background-color: #e0eaff;">0</td><td style="background-color: #e0eaff;">4.002</td></tr>
-    <tr><td style="background-color: #e0eaff;">2.j</td><td style="background-color: #e0eaff;">0.139</td><td style="background-color: #e0eaff;">(0.004,0.776)</td><td style="background-color: #e0eaff;">1</td><td style="background-color: #e0eaff;">7.182</td></tr>
-    <tr><td style="background-color: #e0eaff;">3.天</td><td style="background-color: #e0eaff;">0.389</td><td style="background-color: #e0eaff;">(0.126,0.907)</td><td style="background-color: #e0eaff;">5</td><td style="background-color: #e0eaff;">12.859</td></tr>
-    <tr><td style="background-color: #e0eaff;">4.b</td><td style="background-color: #e0eaff;">0.415</td><td style="background-color: #e0eaff;">(0.167,0.855)</td><td style="background-color: #e0eaff;">7</td><td style="background-color: #e0eaff;">16.861</td></tr>
-    <tr><td style="background-color: #e0eaff;">5.f</td><td style="background-color: #e0eaff;">0.457</td><td style="background-color: #e0eaff;">(0.168,0.995)</td><td style="background-color: #e0eaff;">6</td><td style="background-color: #e0eaff;">13.128</td></tr>
-    <tr><td style="background-color: #e0eaff;">6.official</td><td style="background-color: #e0eaff;">0.518</td><td style="background-color: #e0eaff;">(0.248,0.952)</td><td style="background-color: #e0eaff;">10</td><td style="background-color: #e0eaff;">19.317</td></tr>
-    <tr><td style="background-color: #e0eaff;">7.n</td><td style="background-color: #e0eaff;">0.542</td><td style="background-color: #e0eaff;">(0.391,0.732)</td><td style="background-color: #e0eaff;">42</td><td style="background-color: #e0eaff;">77.508</td></tr>
-    <tr><td style="background-color: #e0eaff;">8.h</td><td style="background-color: #e0eaff;">0.561</td><td style="background-color: #e0eaff;">(0.332,0.886)</td><td style="background-color: #e0eaff;">18</td><td style="background-color: #e0eaff;">32.104</td></tr>
-    <tr><td style="background-color: #e0eaff;">9.a</td><td style="background-color: #e0eaff;">0.573</td><td style="background-color: #e0eaff;">(0.448,0.721)</td><td style="background-color: #e0eaff;">72</td><td style="background-color: #e0eaff;">125.678</td></tr>
-    <tr><td style="background-color: #e0eaff;">10.r</td><td style="background-color: #e0eaff;">0.613</td><td style="background-color: #e0eaff;">(0.443,0.825)</td><td style="background-color: #e0eaff;">43</td><td style="background-color: #e0eaff;">70.198</td></tr>
-    <tr><td style="background-color: #e0eaff;">11.l</td><td style="background-color: #e0eaff;">0.617</td><td style="background-color: #e0eaff;">(0.428,0.863)</td><td style="background-color: #e0eaff;">34</td><td style="background-color: #e0eaff;">55.069</td></tr>
-    <tr><td style="background-color: #e0eaff;">12.s</td><td style="background-color: #e0eaff;">0.624</td><td style="background-color: #e0eaff;">(0.444,0.854)</td><td style="background-color: #e0eaff;">39</td><td style="background-color: #e0eaff;">62.463</td></tr>
-    <tr><td style="background-color: #e0eaff;">13.m</td><td style="background-color: #e0eaff;">0.643</td><td style="background-color: #e0eaff;">(0.448,0.894)</td><td style="background-color: #e0eaff;">35</td><td style="background-color: #e0eaff;">54.444</td></tr>
-    <tr><td style="background-color: #e0eaff;">14.k</td><td style="background-color: #e0eaff;">0.655</td><td style="background-color: #e0eaff;">(0.459,0.907)</td><td style="background-color: #e0eaff;">36</td><td style="background-color: #e0eaff;">54.941</td></tr>
-    <tr><td style="background-color: #e0eaff;">15.u</td><td style="background-color: #e0eaff;">0.666</td><td style="background-color: #e0eaff;">(0.488,0.888)</td><td style="background-color: #e0eaff;">46</td><td style="background-color: #e0eaff;">69.063</td></tr>
-    <tr><td style="background-color: #e0eaff;">16.e</td><td style="background-color: #e0eaff;">0.692</td><td style="background-color: #e0eaff;">(0.523,0.899)</td><td style="background-color: #e0eaff;">56</td><td style="background-color: #e0eaff;">80.928</td></tr>
-    <tr><td style="background-color: #e0eaff;">17.y</td><td style="background-color: #e0eaff;">0.693</td><td style="background-color: #e0eaff;">(0.505,0.927)</td><td style="background-color: #e0eaff;">45</td><td style="background-color: #e0eaff;">64.947</td></tr>
-    <tr><td style="background-color: #e0eaff;">18.i</td><td style="background-color: #e0eaff;">0.725</td><td style="background-color: #e0eaff;">(0.585,0.888)</td><td style="background-color: #e0eaff;">93</td><td style="background-color: #e0eaff;">128.276</td></tr>
-    <tr><td style="background-color: #e0eaff;">19.o</td><td style="background-color: #e0eaff;">0.744</td><td style="background-color: #e0eaff;">(0.586,0.931)</td><td style="background-color: #e0eaff;">76</td><td style="background-color: #e0eaff;">102.147</td></tr>
-    <tr><td style="background-color: #e0eaff;">20.汉字+字母</td><td style="background-color: #e0eaff;">0.816</td><td style="background-color: #e0eaff;">(0.704,0.940)</td><td style="background-color: #e0eaff;">191</td><td style="background-color: #e0eaff;">234.141</td></tr>
-  </tbody>
-</table>
-
-范围：参考注销数大于1且区间上限小于1
 <table>
   <thead>
     <tr style="background-color:lightgray;"><th>字</th><th>相对比例</th><th>95%置信区间</th><th>注销数</th><th>参考数</th></tr>
@@ -74,6 +44,37 @@
     <tr><td style="background-color: #ffeae0;">23.是</td><td style="background-color: #ffeae0;">1.616</td><td style="background-color: #ffeae0;">(1.138,2.228)</td><td style="background-color: #ffeae0;">37</td><td style="background-color: #ffeae0;">22.893</td></tr>
     <tr><td style="background-color: #ffeae0;">24.-</td><td style="background-color: #ffeae0;">1.440</td><td style="background-color: #ffeae0;">(1.187,1.732)</td><td style="background-color: #ffeae0;">113</td><td style="background-color: #ffeae0;">78.459</td></tr>
     <tr><td style="background-color: #ffeae0;">25.小</td><td style="background-color: #ffeae0;">1.383</td><td style="background-color: #ffeae0;">(1.120,1.689)</td><td style="background-color: #ffeae0;">96</td><td style="background-color: #ffeae0;">69.403</td></tr>
+  </tbody>
+</table>
+
+
+范围：参考注销数大于1且区间上限小于1
+
+<table>
+  <thead>
+    <tr style="background-color:lightgray;"><th>字</th><th>相对比例</th><th>95%置信区间</th><th>注销数</th><th>参考数</th></tr>
+  </thead>
+  <tbody>
+    <tr><td style="background-color: #e0eaff;">1.空</td><td style="background-color: #e0eaff;">0.000</td><td style="background-color: #e0eaff;">(0.000,0.922)</td><td style="background-color: #e0eaff;">0</td><td style="background-color: #e0eaff;">4.002</td></tr>
+    <tr><td style="background-color: #e0eaff;">2.j</td><td style="background-color: #e0eaff;">0.139</td><td style="background-color: #e0eaff;">(0.004,0.776)</td><td style="background-color: #e0eaff;">1</td><td style="background-color: #e0eaff;">7.182</td></tr>
+    <tr><td style="background-color: #e0eaff;">3.天</td><td style="background-color: #e0eaff;">0.389</td><td style="background-color: #e0eaff;">(0.126,0.907)</td><td style="background-color: #e0eaff;">5</td><td style="background-color: #e0eaff;">12.859</td></tr>
+    <tr><td style="background-color: #e0eaff;">4.b</td><td style="background-color: #e0eaff;">0.415</td><td style="background-color: #e0eaff;">(0.167,0.855)</td><td style="background-color: #e0eaff;">7</td><td style="background-color: #e0eaff;">16.861</td></tr>
+    <tr><td style="background-color: #e0eaff;">5.f</td><td style="background-color: #e0eaff;">0.457</td><td style="background-color: #e0eaff;">(0.168,0.995)</td><td style="background-color: #e0eaff;">6</td><td style="background-color: #e0eaff;">13.128</td></tr>
+    <tr><td style="background-color: #e0eaff;">6.official</td><td style="background-color: #e0eaff;">0.518</td><td style="background-color: #e0eaff;">(0.248,0.952)</td><td style="background-color: #e0eaff;">10</td><td style="background-color: #e0eaff;">19.317</td></tr>
+    <tr><td style="background-color: #e0eaff;">7.n</td><td style="background-color: #e0eaff;">0.542</td><td style="background-color: #e0eaff;">(0.391,0.732)</td><td style="background-color: #e0eaff;">42</td><td style="background-color: #e0eaff;">77.508</td></tr>
+    <tr><td style="background-color: #e0eaff;">8.h</td><td style="background-color: #e0eaff;">0.561</td><td style="background-color: #e0eaff;">(0.332,0.886)</td><td style="background-color: #e0eaff;">18</td><td style="background-color: #e0eaff;">32.104</td></tr>
+    <tr><td style="background-color: #e0eaff;">9.a</td><td style="background-color: #e0eaff;">0.573</td><td style="background-color: #e0eaff;">(0.448,0.721)</td><td style="background-color: #e0eaff;">72</td><td style="background-color: #e0eaff;">125.678</td></tr>
+    <tr><td style="background-color: #e0eaff;">10.r</td><td style="background-color: #e0eaff;">0.613</td><td style="background-color: #e0eaff;">(0.443,0.825)</td><td style="background-color: #e0eaff;">43</td><td style="background-color: #e0eaff;">70.198</td></tr>
+    <tr><td style="background-color: #e0eaff;">11.l</td><td style="background-color: #e0eaff;">0.617</td><td style="background-color: #e0eaff;">(0.428,0.863)</td><td style="background-color: #e0eaff;">34</td><td style="background-color: #e0eaff;">55.069</td></tr>
+    <tr><td style="background-color: #e0eaff;">12.s</td><td style="background-color: #e0eaff;">0.624</td><td style="background-color: #e0eaff;">(0.444,0.854)</td><td style="background-color: #e0eaff;">39</td><td style="background-color: #e0eaff;">62.463</td></tr>
+    <tr><td style="background-color: #e0eaff;">13.m</td><td style="background-color: #e0eaff;">0.643</td><td style="background-color: #e0eaff;">(0.448,0.894)</td><td style="background-color: #e0eaff;">35</td><td style="background-color: #e0eaff;">54.444</td></tr>
+    <tr><td style="background-color: #e0eaff;">14.k</td><td style="background-color: #e0eaff;">0.655</td><td style="background-color: #e0eaff;">(0.459,0.907)</td><td style="background-color: #e0eaff;">36</td><td style="background-color: #e0eaff;">54.941</td></tr>
+    <tr><td style="background-color: #e0eaff;">15.u</td><td style="background-color: #e0eaff;">0.666</td><td style="background-color: #e0eaff;">(0.488,0.888)</td><td style="background-color: #e0eaff;">46</td><td style="background-color: #e0eaff;">69.063</td></tr>
+    <tr><td style="background-color: #e0eaff;">16.e</td><td style="background-color: #e0eaff;">0.692</td><td style="background-color: #e0eaff;">(0.523,0.899)</td><td style="background-color: #e0eaff;">56</td><td style="background-color: #e0eaff;">80.928</td></tr>
+    <tr><td style="background-color: #e0eaff;">17.y</td><td style="background-color: #e0eaff;">0.693</td><td style="background-color: #e0eaff;">(0.505,0.927)</td><td style="background-color: #e0eaff;">45</td><td style="background-color: #e0eaff;">64.947</td></tr>
+    <tr><td style="background-color: #e0eaff;">18.i</td><td style="background-color: #e0eaff;">0.725</td><td style="background-color: #e0eaff;">(0.585,0.888)</td><td style="background-color: #e0eaff;">93</td><td style="background-color: #e0eaff;">128.276</td></tr>
+    <tr><td style="background-color: #e0eaff;">19.o</td><td style="background-color: #e0eaff;">0.744</td><td style="background-color: #e0eaff;">(0.586,0.931)</td><td style="background-color: #e0eaff;">76</td><td style="background-color: #e0eaff;">102.147</td></tr>
+    <tr><td style="background-color: #e0eaff;">20.汉字+字母</td><td style="background-color: #e0eaff;">0.816</td><td style="background-color: #e0eaff;">(0.704,0.940)</td><td style="background-color: #e0eaff;">191</td><td style="background-color: #e0eaff;">234.141</td></tr>
   </tbody>
 </table>
 
