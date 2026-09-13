@@ -19,7 +19,7 @@
 | Qwen-3.8-Max | 43/200=0.215 | 30/200=0.15 | 0.1783 | 107/27=3.963 |
 
 ## 不同模型对不同虚拟主播的回答情况
-见 ./user_summary.md
+见<a href='nyuga_articles/llm_score/user_summary.md'>表格</a>
 
 ## 各个虚拟主播得到的具体回答列表
-见 ./answers.md
+见<a href='nyuga_articles/llm_score/answers.md'>表格</a>
