@@ -1,4 +1,4 @@
-| mid | 名字 | 答对的模型 | 给出错误答案的模型 |
+| mid | 名字 | 答对的模型 | 给出答案但错误的模型 |
 | --- | --- | --- | --- |
 | 282994 | 泠鸢yousa | kimi\|deepseek\|doubao\|glm\|qwen |  |
 | 1265680561 | 永雏塔菲 | kimi\|deepseek\|doubao\|glm\|qwen |  |

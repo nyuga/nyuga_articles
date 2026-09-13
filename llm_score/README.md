@@ -1,4 +1,4 @@
-国产AI的虚拟主播质量量测试：向不同国产LLM AI询问是否知道某个虚拟主播，能答出来的越多说明知识越丰富。
+国产AI的虚拟主播知识量测试：向不同国产LLM AI询问是否知道某个虚拟主播，能答出来的越多说明知识越丰富。
 
 ## 评分方法 
 从vtbs.moe名单中挑选200个粉丝数最多的vup，要求AI回答他的身份或职业，允许回答“不知道”。每个名字提问3次。答出虚拟主播或同义词的得分。
@@ -26,7 +26,7 @@
 ## 各个虚拟主播得到的具体回答列表
 见<a href='answers'>列表</a>。每个模型的结果是把3次回答的答案合并到一起。空白的说明3次都回答了不知道。
 
-## 个人评价
+## 个人讨论
 AI眼中的VirtuaReal成员：祖娅纳惜(deepseek)，兰音Reine(doubao)，兰音Reine(glm)，阿萨Aza(doubao)，阿萨Aza(kimi)，阿萨Aza(qwen)，折原露露(doubao)，陆鳐LuLu(doubao)，夏露露Ruru(doubao)，七海Nana7mi(doubao)，七海Nana7mi(glm)，七海Nana7mi(qwen)，安晴Ankii(deepseek)，冥冥meichan(deepseek)，七濑Unia(doubao)，星宮汐(deepseek)，罗伊_Roi(doubao)，胡桃Usa(doubao)，萝尔露Real(deepseek)
 
 可以看出不同AI谨慎程度不一样，kimi最谨慎，在给出答案的情况下正确率最高。kimi思考过程会反复提醒自己不要出现幻觉，很多问题的推理过程中已经出现了虚拟主播，但最后还是输出不知道。
