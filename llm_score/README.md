@@ -22,10 +22,10 @@
 
 
 ## 不同模型对不同虚拟主播的回答情况
-见<a href='user_summary'>表格</a>
+见[表格](user_summary.md)
 
 ## 各个虚拟主播得到的具体回答列表
-见<a href='answers'>列表</a>。每个模型的结果是把3次回答的答案合并到一起。空白的说明3次都回答了不知道。
+见[列表](answers.md)。每个模型的结果是把3次回答的答案合并到一起。空白的说明3次都回答了不知道。
 
 ## 个人讨论
 AI眼中的VirtuaReal成员：祖娅纳惜(deepseek)，兰音Reine(doubao)，兰音Reine(glm)，阿萨Aza(doubao)，阿萨Aza(kimi)，阿萨Aza(qwen)，折原露露(doubao)，陆鳐LuLu(doubao)，夏露露Ruru(doubao)，七海Nana7mi(doubao)，七海Nana7mi(glm)，七海Nana7mi(qwen)，安晴Ankii(deepseek)，冥冥meichan(deepseek)，七濑Unia(doubao)，星宮汐(deepseek)，罗伊_Roi(doubao)，胡桃Usa(doubao)，萝尔露Real(deepseek)
