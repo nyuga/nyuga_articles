@@ -9,6 +9,8 @@
 
 删除了名字中的official、channel。手动去除名单中很有可能重名的人、很有可能不被AI视为虚拟主播的人。凭个人感觉，没有严格规则。
 
+使用API提问。每次提问都是独立上下文。思考强度均为low（最低档但不是关闭）。deepseek，千问，豆包使用官方API，kimi、glm使用阿里平台提供的API。测试时间9月3日到9月4日。
+
 ## 模型排名
 | 模型 | 答对一次 | 每次都答对 | 平均分 | 答对次数/回答次数 |
 | --- | --- | --- | --- | --- |
@@ -23,3 +25,8 @@
 
 ## 各个虚拟主播得到的具体回答列表
 见<a href='answers'>列表</a>。每个模型的结果是把3次回答的答案合并到一起。空白的说明3次都回答了不知道。
+
+## 个人评价
+AI眼中的VirtuaReal成员：祖娅纳惜(deepseek)，兰音Reine(doubao)，兰音Reine(glm)，阿萨Aza(doubao)，阿萨Aza(kimi)，阿萨Aza(qwen)，折原露露(doubao)，陆鳐LuLu(doubao)，夏露露Ruru(doubao)，七海Nana7mi(doubao)，七海Nana7mi(glm)，七海Nana7mi(qwen)，安晴Ankii(deepseek)，冥冥meichan(deepseek)，七濑Unia(doubao)，星宮汐(deepseek)，罗伊_Roi(doubao)，胡桃Usa(doubao)，萝尔露Real(deepseek)
+
+可以看出不同AI谨慎程度不一样，kimi最谨慎，在给出答案的情况下正确率最高。kimi思考过程会反复提醒自己不要出现幻觉，很多问题的推理过程中已经出现了虚拟主播，但最后还是输出不知道。
