@@ -64,7 +64,7 @@
 <text x="27.00" y="27.50" fill="rgb(16, 21, 28)" font-family="&quot;Microsoft YaHei&quot;" font-size="20" font-weight="600" font-style="normal" text-anchor="middle" xml:space="preserve">字词</text>
 <text x="100.00" y="27.50" fill="rgb(16, 21, 28)" font-family="&quot;Microsoft YaHei&quot;" font-size="20" font-weight="600" font-style="normal" text-anchor="middle" xml:space="preserve">排名变化</text>
 <text x="198.19" y="27.50" fill="rgb(16, 21, 28)" font-family="&quot;Microsoft YaHei&quot;" font-size="20" font-weight="600" font-style="normal" text-anchor="middle" xml:space="preserve">排名</text>
-<text x="423.69" y="27.50" fill="rgb(16, 21, 28)" font-family="&quot;Microsoft YaHei&quot;" font-size="20" font-weight="600" font-style="normal" text-anchor="middle" xml:space="preserve">次数/人数变化（相对26年的百分比）</text>
+<text x="423.69" y="27.50" fill="rgb(16, 21, 28)" font-family="&quot;Microsoft YaHei&quot;" font-size="20" font-weight="600" font-style="normal" text-anchor="middle" xml:space="preserve">次数/人数变化（相对25年的百分比）</text>
 <text x="27.00" y="70.50" fill="rgb(31, 35, 40)" font-family="&quot;Microsoft YaHei&quot;" font-size="20" font-weight="400" font-style="normal" text-anchor="middle" xml:space="preserve">连</text>
 <text x="100.00" y="70.50" fill="rgb(31, 35, 40)" font-family="&quot;Microsoft YaHei&quot;" font-size="20" font-weight="400" font-style="normal" text-anchor="middle" xml:space="preserve">↑151</text>
 <text x="198.19" y="70.50" fill="rgb(31, 35, 40)" font-family="&quot;Microsoft YaHei&quot;" font-size="20" font-weight="400" font-style="normal" text-anchor="middle" xml:space="preserve">299→148</text>
@@ -74,8 +74,8 @@
 <text x="198.19" y="113.50" fill="rgb(31, 35, 40)" font-family="&quot;Microsoft YaHei&quot;" font-size="20" font-weight="400" font-style="normal" text-anchor="middle" xml:space="preserve">293→162</text>
 <text x="423.69" y="113.50" fill="rgb(31, 35, 40)" font-family="&quot;Microsoft YaHei&quot;" font-size="20" font-weight="400" font-style="normal" text-anchor="middle" xml:space="preserve">+0.002869(+67.2%)</text>
 <text x="27.00" y="156.50" fill="rgb(31, 35, 40)" font-family="&quot;Microsoft YaHei&quot;" font-size="20" font-weight="400" font-style="normal" text-anchor="middle" xml:space="preserve">9</text>
-<text x="100.00" y="156.50" fill="rgb(31, 35, 40)" font-family="&quot;Microsoft YaHei&quot;" font-size="20" font-weight="400" font-style="normal" text-anchor="middle" xml:space="preserve">↑125</text>
-<text x="198.19" y="156.50" fill="rgb(31, 35, 40)" font-family="&quot;Microsoft YaHei&quot;" font-size="20" font-weight="400" font-style="normal" text-anchor="middle" xml:space="preserve">327→202</text>
+<text x="100.00" y="156.50" fill="rgb(31, 35, 40)" font-family="&quot;Microsoft YaHei&quot;" font-size="20" font-weight="400" font-style="normal" text-anchor="middle" xml:space="preserve">↑124</text>
+<text x="198.19" y="156.50" fill="rgb(31, 35, 40)" font-family="&quot;Microsoft YaHei&quot;" font-size="20" font-weight="400" font-style="normal" text-anchor="middle" xml:space="preserve">326→202</text>
 <text x="423.69" y="156.50" fill="rgb(31, 35, 40)" font-family="&quot;Microsoft YaHei&quot;" font-size="20" font-weight="400" font-style="normal" text-anchor="middle" xml:space="preserve">+0.002089(+54.0%)</text>
 <text x="27.00" y="199.50" fill="rgb(31, 35, 40)" font-family="&quot;Microsoft YaHei&quot;" font-size="20" font-weight="400" font-style="normal" text-anchor="middle" xml:space="preserve">见</text>
 <text x="100.00" y="199.50" fill="rgb(31, 35, 40)" font-family="&quot;Microsoft YaHei&quot;" font-size="20" font-weight="400" font-style="normal" text-anchor="middle" xml:space="preserve">↑107</text>
